@@ -7,7 +7,8 @@
 <a target="badge" href="https://github.com/NicoLiao/Pixiv-Downloader" title="windows badge"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=85/></a>  
 </p>
 
->This is a software to download pictures from pixiv. It can download the top 50 pictures per day from the daily ranking page.
+>This is a game where you have to shoot down aliens and not get touched. You get 50 scores if you killed an alien and enter next level if you cleared all the aliens
+>However, you have an AI to play for you this time. This AI will learn from past experiences and do better each time.
 
 All images comes from https://www.pixiv.net/ranking.php/
 
