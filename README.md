@@ -39,5 +39,5 @@ Done it and Run code
 ### Build exe
 Using terminal and pyinstaller to build exe
 ```
-$ pyinstaller -F crawlpixiv.py -c --icon=logo.ico
+$ pyinstaller -F crawlpixiv.py -c
 ```
