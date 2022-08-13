@@ -10,20 +10,18 @@
 >This is a game where you have to shoot down aliens and not get touched. You get 50 scores if you killed an alien and enter next level if you cleared all the aliens
 >However, you have an AI to play for you this time. This AI will learn from past experiences and do better each time.
 
-All images comes from https://www.pixiv.net/ranking.php/
-
 # Install
 ## Release 
-Download exe as follow: https://github.com/NicoLiao/Pixiv-Downloader/releases/tag/v1.0
-
 
 ## Download source code
-In order to use Pixiv Downloader, make sure that you have python 3.9.6 and python packages as below:
-requests 2.27.1
+In order to use AlienAi, make sure that you have python 3.9.6 and python packages as below:
+pygame 2.0.1
 pyinstaller 4.10
-regex 2022.1.18
+torch 1.12.0
+matplotlib 3.4.3
+ipython 8.4.0
 ```
-$ git clone https://github.com/NicoLiao/Pixiv-Downloader
+$ git clone https://github.com/NicoLiao/AlienAi
 ```
 ## Usage
 ### Visual Studio Code
