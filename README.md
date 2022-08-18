@@ -1,5 +1,5 @@
 <p align=center>
-<img target = "banner" src="https://github.com/NicoLiao/Pixiv-Downloader/blob/main/img/banner.png?raw=true">
+<img target = "banner" src="https://raw.githubusercontent.com/NicoLiao/AlienAi/main/1660395285063.png">
 </p>
 
 <p align=center>
