@@ -37,5 +37,5 @@ Done it and Run code
 ### Build exe
 Using terminal and pyinstaller to build exe
 ```
-$ pyinstaller -F alien_invasion_copy.py -c
+$ pyinstaller -F agent.py -c
 ```
