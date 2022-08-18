@@ -3,8 +3,8 @@
 </p>
 
 <p align=center>
-<a target="badge" href="https://github.com/NicoLiao/Pixiv-Downloader" title="python version"><img src="https://img.shields.io/badge/python-v3.9.6-blue"></a>
-<a target="badge" href="https://github.com/NicoLiao/Pixiv-Downloader" title="windows badge"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=85/></a>  
+<a target="badge" href="https://github.com/NicoLiao/AlienAi" title="python version"><img src="https://img.shields.io/badge/python-v3.9.6-blue"></a>
+<a target="badge" href="https://github.com/NicoLiao/AlienAi" title="windows badge"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width=85/></a>  
 </p>
 
 >This is a game where you have to shoot down aliens and not get touched. You get 50 scores if you killed an alien and enter next level if you cleared all the aliens
